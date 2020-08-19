@@ -1,0 +1,1644 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+                              CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj (__errno)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.DI_PutVal
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.PHK_GetVal
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.OneStep_NoDelay
+                0x00000000      0x13c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.OneStep  0x00000000      0x15c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.runmotor
+                0x00000000       0x7c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text.Refesh_LED
+                0x00000000      0x12c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .data.MotorFlag
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .text.SPI1_SetSpeed
+                0x00000000       0x34 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x00000000       0x34 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_TIM_Base_MspInit
+                0x00000000       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .text.WFI_SET  0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .text.INTX_DISABLE
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .text.INTX_ENABLE
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .text.MSR_MSP  0x00000000        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._getpid  0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._kill    0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._exit    0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._read    0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._write   0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._sbrk    0x00000000       0x3c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._close   0x00000000        0x6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._fstat   0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._isatty  0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._lseek   0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x00000000        0x6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .bss.heap_end.6023
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000     0x112a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000      0x31e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x00000000      0x436 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x5a3 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x8b5 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000      0x1a8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .bss.uartCounts
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_Write_SR
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_Write_Disable
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_Erase_Sector
+                0x00000000       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_Write
+                0x00000000       0xa4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_PowerDown
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text.W25QXX_WAKEUP
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .bss.W25QXX_BUFFER
+                0x00000000     0x1000 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_Delay
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x00000000       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x00000000       0x98 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x00000000       0x90 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x00000000       0x50 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x00000000       0x74 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x00000000       0x44 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x00000000      0x548 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x00000000      0x2ec CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x00000000       0x44 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x00000000       0x5a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x00000000        0x6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x00000000       0xd8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x00000000       0xa8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x00000000       0x80 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x00000000        0xe CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x00000000      0x694 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x00000000      0x20d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_loc     0x00000000      0x4e1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x00000000       0x50 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x753 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x53b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x00000000       0xec CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x00000000       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x00000000      0x154 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x00000000       0x34 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x00000000        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x00000000       0x9c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x00000000      0x760 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x00000000      0x26c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_loc     0x00000000      0x3a3 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x00000000       0x88 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x00000000       0x78 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x8ba CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x682 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x00000000      0x134 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x00000000       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x00000000       0x50 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x00000000       0xc0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x00000000       0xc8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x00000000       0x9c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x00000000       0xa4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x00000000      0xbc2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x00000000      0x260 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_loc     0x00000000      0x87f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x00000000       0x88 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0xa5d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x798 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x00000000      0x194 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x114 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x00000000        0xe CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x00000000      0x23c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x00000000      0x123 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_loc     0x00000000       0x25 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x00000000      0x31f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x00000000      0x3bc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x00000000       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x00000000        0x6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x00000000       0x84 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x00000000       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x00000000       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x00000000       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x00000000      0x76f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00000000      0x204 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_loc     0x00000000      0x142 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x00000000       0xa8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x00000000       0x98 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x57d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x5ee CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x00000000      0x140 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x00000000       0xf4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0x4c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x00000000        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x00000000       0xb4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x3c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x114 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000       0x34 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata.HAL_RCCEx_GetPeriphCLKFreq.str1.4
+                0x00000000       0x11 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x110 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x00000000      0x52c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00000000      0x1f8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_loc     0x00000000      0x3b6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x00000000       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x5f4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x564 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_AbortRx_ISR
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_AbortTx_ISR
+                0x00000000       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_EndRxTransaction
+                0x00000000       0x74 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_MspInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DeInit
+                0x00000000       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit
+                0x00000000      0x1a4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive
+                0x00000000      0x166 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_IT
+                0x00000000       0xa0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_IT
+                0x00000000       0xc8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_IT
+                0x00000000       0xb4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_DMA
+                0x00000000       0xd4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_DMA
+                0x00000000      0x150 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_DMA
+                0x00000000       0xf0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort
+                0x00000000      0x13c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAPause
+                0x00000000       0x26 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAResume
+                0x00000000       0x26 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAStop
+                0x00000000       0x46 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_RxCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitCplt
+                0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_RxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfReceiveCplt
+                0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitReceiveCplt
+                0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseTx_ISR
+                0x00000000       0x90 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_TxISR_8BIT
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_TxISR_16BIT
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseRx_ISR
+                0x00000000       0x56 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_RxISR_8BIT
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_RxISR_16BIT
+                0x00000000       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_CloseRxTx_ISR
+                0x00000000       0xb0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_8BIT
+                0x00000000       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_8BIT
+                0x00000000       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_16BIT
+                0x00000000       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_16BIT
+                0x00000000       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAError
+                0x00000000       0x22 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATransmitCplt
+                0x00000000       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMAReceiveCplt
+                0x00000000       0x56 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATransmitReceiveCplt
+                0x00000000       0x5c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort_IT
+                0x00000000      0x154 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMARxAbortCallback
+                0x00000000       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_DMATxAbortCallback
+                0x00000000       0x88 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_GetState
+                0x00000000        0x6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_GetError
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00000000      0x163 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00000000       0x97 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x00000000      0x24a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x00000000      0x31c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00000000      0x163 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x00000000       0x97 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00000000      0x24a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x00000000      0x31f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x00000000       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTxTransfer
+                0x00000000       0x12 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x6a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_Init
+                0x00000000       0x80 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0x8a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DeInit
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit
+                0x00000000       0xe0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive
+                0x00000000       0xe6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0x8c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0xa8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAPause
+                0x00000000       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAResume
+                0x00000000       0x76 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_DMAStop
+                0x00000000       0x64 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort
+                0x00000000       0x94 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x4e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive
+                0x00000000       0x58 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATransmitCplt
+                0x00000000       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxHalfCplt
+                0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x3e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxHalfCplt
+                0x00000000        0xa CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAError
+                0x00000000       0x58 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Abort_IT
+                0x00000000       0xc4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x2a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x2a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x32 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000       0x32 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_MultiProcessor_ExitMuteMode
+                0x00000000       0x32 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x36 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x36 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetError
+                0x00000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text          0x00000000       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+ .data          0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0xa0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x38 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x0000c000         xrw
+FLASH            0x08000000         0x00040000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+LOAD CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+START GROUP
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x2000c000                _estack = 0x2000c000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1e4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1e4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x08000000                g_pfnVectors
+                0x080001e4                . = ALIGN (0x4)
+
+.text           0x080001e4     0x1e50
+                0x080001e4                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001e4       0x40 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.MX_GPIO_Init
+                0x08000224       0xcc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000224                MX_GPIO_Init
+ .text.CLK_PutVal
+                0x080002f0       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x080002f0                CLK_PutVal
+ .text.nLAT_PutVal
+                0x08000304       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000304                nLAT_PutVal
+ .text.STB1_PutVal
+                0x08000318       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000318                STB1_PutVal
+ .text.STB2_PutVal
+                0x0800032c       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x0800032c                STB2_PutVal
+ .text.STB3_PutVal
+                0x08000340       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000340                STB3_PutVal
+ .text.STB4_PutVal
+                0x08000354       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000354                STB4_PutVal
+ .text.STB5_PutVal
+                0x08000368       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000368                STB5_PutVal
+ .text.STB6_PutVal
+                0x0800037c       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x0800037c                STB6_PutVal
+ .text.ThermalHeadInit
+                0x08000390       0x34 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                0x08000390                ThermalHeadInit
+ .text.delay_init
+                0x080003c4       0x14 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+                0x080003c4                delay_init
+ .text.delay_us
+                0x080003d8       0x3c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+                0x080003d8                delay_us
+ .text.delay_ms
+                0x08000414       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+                0x08000414                delay_ms
+ .text.main     0x0800042c       0x8c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+                0x0800042c                main
+ .text.SPI1_ReadWriteByte
+                0x080004b8       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+                0x080004b8                SPI1_ReadWriteByte
+ .text.MX_SPI1_Init
+                0x080004e4       0x64 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+                0x080004e4                MX_SPI1_Init
+ .text.HAL_MspInit
+                0x08000548       0x44 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000548                HAL_MspInit
+ .text.HAL_SPI_MspInit
+                0x0800058c       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x0800058c                HAL_SPI_MspInit
+ .text.HAL_UART_MspInit
+                0x080005f4       0xfc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x080005f4                HAL_UART_MspInit
+ .text.NMI_Handler
+                0x080006f0        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006f0                NMI_Handler
+ .text.HardFault_Handler
+                0x080006f2        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006f2                HardFault_Handler
+ .text.MemManage_Handler
+                0x080006f4        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006f4                MemManage_Handler
+ .text.BusFault_Handler
+                0x080006f6        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006f6                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080006f8        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006f8                UsageFault_Handler
+ .text.SVC_Handler
+                0x080006fa        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006fa                SVC_Handler
+ .text.DebugMon_Handler
+                0x080006fc        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006fc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080006fe        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080006fe                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000700        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000700                SysTick_Handler
+ .text.SPI1_IRQHandler
+                0x08000708       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000708                SPI1_IRQHandler
+ .text.USART1_IRQHandler
+                0x08000718       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x08000718                USART1_IRQHandler
+ .text.SystemClock_Config
+                0x08000744       0x66 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+                0x08000744                SystemClock_Config
+ *fill*         0x080007aa        0x2 
+ .text.SystemInit
+                0x080007ac       0x4c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x080007ac                SystemInit
+ .text.HAL_UART_RxCpltCallback
+                0x080007f8       0x64 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x080007f8                HAL_UART_RxCpltCallback
+ .text.MX_USART1_UART_Init
+                0x0800085c       0x3c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x0800085c                MX_USART1_UART_Init
+ .text.Error_Handler
+                0x08000898        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x08000898                Error_Handler
+ *fill*         0x0800089a        0x2 
+ .text.W25QXX_Init
+                0x0800089c       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x0800089c                W25QXX_Init
+ .text.W25QXX_ReadSR
+                0x080008e4       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x080008e4                W25QXX_ReadSR
+ .text.W25QXX_Write_Enable
+                0x08000914       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x08000914                W25QXX_Write_Enable
+ .text.W25QXX_ReadID
+                0x0800092c       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x0800092c                W25QXX_ReadID
+ .text.W25QXX_Read
+                0x0800096c       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x0800096c                W25QXX_Read
+ .text.W25QXX_Wait_Busy
+                0x080009b4       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x080009b4                W25QXX_Wait_Busy
+ .text.W25QXX_Write_Page
+                0x080009c4       0x50 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x080009c4                W25QXX_Write_Page
+ .text.W25QXX_Write_NoCheck
+                0x08000a14       0x3e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x08000a14                W25QXX_Write_NoCheck
+ *fill*         0x08000a52        0x2 
+ .text.W25QXX_Erase_Chip
+                0x08000a54       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x08000a54                W25QXX_Erase_Chip
+ .text.HAL_InitTick
+                0x08000a78       0x4c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000a78                HAL_InitTick
+ .text.HAL_Init
+                0x08000ac4       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000ac4                HAL_Init
+ .text.HAL_IncTick
+                0x08000ae8       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000ae8                HAL_IncTick
+ .text.HAL_GetTick
+                0x08000b00        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000b00                HAL_GetTick
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x08000b0c       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000b0c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000b30       0x68 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000b30                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x08000b98       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000b98                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x08000bb4       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000bb4                HAL_SYSTICK_Config
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x08000be0       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000be0                HAL_SYSTICK_CLKSourceConfig
+ .text.HAL_DMA_Abort_IT
+                0x08000c00      0x168 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x08000c00                HAL_DMA_Abort_IT
+ .text.HAL_GPIO_Init
+                0x08000d68      0x238 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000d68                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000fa0        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000fa0                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x08000fac        0xe CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000fac                HAL_GPIO_TogglePin
+ *fill*         0x08000fba        0x2 
+ .text.RCC_Delay
+                0x08000fbc       0x2c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_OscConfig
+                0x08000fe8      0x410 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000fe8                HAL_RCC_OscConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080013f8       0x6c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080013f8                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_ClockConfig
+                0x08001464      0x16c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001464                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetHCLKFreq
+                0x080015d0        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080015d0                HAL_RCC_GetHCLKFreq
+ .text.HAL_RCC_GetPCLK1Freq
+                0x080015dc       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080015dc                HAL_RCC_GetPCLK1Freq
+ .text.HAL_RCC_GetPCLK2Freq
+                0x080015fc       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080015fc                HAL_RCC_GetPCLK2Freq
+ .text.SPI_WaitFlagStateUntilTimeout
+                0x0800161c       0x94 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.SPI_EndRxTxTransaction
+                0x080016b0       0x24 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.HAL_SPI_Init
+                0x080016d4       0x7c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x080016d4                HAL_SPI_Init
+ .text.HAL_SPI_TransmitReceive
+                0x08001750      0x238 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x08001750                HAL_SPI_TransmitReceive
+ .text.HAL_SPI_ErrorCallback
+                0x08001988        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x08001988                HAL_SPI_ErrorCallback
+ *fill*         0x0800198a        0x2 
+ .text.HAL_SPI_IRQHandler
+                0x0800198c      0x108 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                0x0800198c                HAL_SPI_IRQHandler
+ .text.SPI_DMAAbortOnError
+                0x08001a94       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .text.UART_EndRxTransfer
+                0x08001aa4       0x1c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x08001ac0       0x66 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ *fill*         0x08001b26        0x2 
+ .text.UART_SetConfig
+                0x08001b28       0xcc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_Init
+                0x08001bf4       0x5e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001bf4                HAL_UART_Init
+ .text.HAL_UART_Receive_IT
+                0x08001c52       0x5c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001c52                HAL_UART_Receive_IT
+ .text.HAL_UART_TxCpltCallback
+                0x08001cae        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001cae                HAL_UART_TxCpltCallback
+ .text.UART_EndTransmit_IT
+                0x08001cb0       0x1a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Receive_IT
+                0x08001cca       0x9e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_ErrorCallback
+                0x08001d68        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001d68                HAL_UART_ErrorCallback
+ *fill*         0x08001d6a        0x2 
+ .text.HAL_UART_IRQHandler
+                0x08001d6c      0x120 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001d6c                HAL_UART_IRQHandler
+ .text.UART_DMAAbortOnError
+                0x08001e8c       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.HAL_UART_GetState
+                0x08001e9c        0xc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x08001e9c                HAL_UART_GetState
+ .text.Reset_Handler
+                0x08001ea8       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x08001ea8                Reset_Handler
+ .text.Default_Handler
+                0x08001ef0        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x08001ef0                RTC_Alarm_IRQHandler
+                0x08001ef0                EXTI2_IRQHandler
+                0x08001ef0                TIM8_TRG_COM_IRQHandler
+                0x08001ef0                TIM8_CC_IRQHandler
+                0x08001ef0                TIM1_CC_IRQHandler
+                0x08001ef0                TIM6_IRQHandler
+                0x08001ef0                PVD_IRQHandler
+                0x08001ef0                SDIO_IRQHandler
+                0x08001ef0                EXTI3_IRQHandler
+                0x08001ef0                EXTI0_IRQHandler
+                0x08001ef0                I2C2_EV_IRQHandler
+                0x08001ef0                ADC1_2_IRQHandler
+                0x08001ef0                TAMPER_IRQHandler
+                0x08001ef0                TIM8_UP_IRQHandler
+                0x08001ef0                DMA2_Channel2_IRQHandler
+                0x08001ef0                DMA1_Channel4_IRQHandler
+                0x08001ef0                USART3_IRQHandler
+                0x08001ef0                RTC_IRQHandler
+                0x08001ef0                DMA1_Channel7_IRQHandler
+                0x08001ef0                CAN1_RX1_IRQHandler
+                0x08001ef0                UART5_IRQHandler
+                0x08001ef0                ADC3_IRQHandler
+                0x08001ef0                TIM4_IRQHandler
+                0x08001ef0                DMA2_Channel1_IRQHandler
+                0x08001ef0                I2C1_EV_IRQHandler
+                0x08001ef0                DMA1_Channel6_IRQHandler
+                0x08001ef0                UART4_IRQHandler
+                0x08001ef0                TIM3_IRQHandler
+                0x08001ef0                RCC_IRQHandler
+                0x08001ef0                TIM1_TRG_COM_IRQHandler
+                0x08001ef0                DMA1_Channel1_IRQHandler
+                0x08001ef0                Default_Handler
+                0x08001ef0                EXTI15_10_IRQHandler
+                0x08001ef0                TIM7_IRQHandler
+                0x08001ef0                TIM5_IRQHandler
+                0x08001ef0                EXTI9_5_IRQHandler
+                0x08001ef0                SPI2_IRQHandler
+                0x08001ef0                DMA1_Channel5_IRQHandler
+                0x08001ef0                EXTI4_IRQHandler
+                0x08001ef0                USB_LP_CAN1_RX0_IRQHandler
+                0x08001ef0                USB_HP_CAN1_TX_IRQHandler
+                0x08001ef0                DMA1_Channel3_IRQHandler
+                0x08001ef0                FSMC_IRQHandler
+                0x08001ef0                TIM1_UP_IRQHandler
+                0x08001ef0                WWDG_IRQHandler
+                0x08001ef0                TIM2_IRQHandler
+                0x08001ef0                TIM1_BRK_IRQHandler
+                0x08001ef0                EXTI1_IRQHandler
+                0x08001ef0                DMA2_Channel4_5_IRQHandler
+                0x08001ef0                USART2_IRQHandler
+                0x08001ef0                I2C2_ER_IRQHandler
+                0x08001ef0                DMA1_Channel2_IRQHandler
+                0x08001ef0                TIM8_BRK_IRQHandler
+                0x08001ef0                CAN1_SCE_IRQHandler
+                0x08001ef0                FLASH_IRQHandler
+                0x08001ef0                SPI3_IRQHandler
+                0x08001ef0                I2C1_ER_IRQHandler
+                0x08001ef0                USBWakeUp_IRQHandler
+                0x08001ef0                DMA2_Channel3_IRQHandler
+ *fill*         0x08001ef2        0x2 
+ .text.__libc_init_array
+                0x08001ef4       0x48 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x08001ef4                __libc_init_array
+ .text.startup.register_fini
+                0x08001f3c       0x14 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001f50        0xc c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08001f50                atexit
+ .text.__libc_fini_array
+                0x08001f5c       0x2c c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08001f5c                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08001f88        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001f88                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08001f8c        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x08001f8c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08001f90       0x8c c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08001f90                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x0800201c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800201c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0800201c        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0800201c        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0800201c                _init
+ .init          0x08002020        0x8 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08002028        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x08002028                _fini
+ .fini          0x0800202c        0x8 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x08002034                . = ALIGN (0x4)
+                0x08002034                _etext = .
+
+.vfp11_veneer   0x08002034        0x0
+ .vfp11_veneer  0x08002034        0x0 linker stubs
+
+.v4_bx          0x08002034        0x0
+ .v4_bx         0x08002034        0x0 linker stubs
+
+.iplt           0x08002034        0x0
+ .iplt          0x08002034        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x08002034       0x30
+                0x08002034                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.AHBPrescTable
+                0x08002034       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08002034                AHBPrescTable
+ .rodata.APBPrescTable
+                0x08002044        0x8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08002044                APBPrescTable
+ .rodata.HAL_RCC_GetSysClockFreq.str1.4
+                0x0800204c       0x11 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x0800205d        0x3 
+ .rodata._global_impure_ptr
+                0x08002060        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08002060                _global_impure_ptr
+                0x08002064                . = ALIGN (0x4)
+
+.rel.dyn        0x08002064        0x0
+ .rel.iplt      0x08002064        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08002064        0x0
+                0x08002064                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08002064                __exidx_end = .
+
+.preinit_array  0x08002064        0x0
+                0x08002064                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08002064                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08002064        0x8
+                0x08002064                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08002064        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08002068        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0800206c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800206c        0x4
+                0x0800206c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800206c        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08002070                PROVIDE (__fini_array_end = .)
+                0x08002070                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x43c load address 0x08002070
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x20000000        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x20000000                SystemCoreClock
+ .data.W25QXX_TYPE
+                0x20000004        0x2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                0x20000004                W25QXX_TYPE
+ .data.uwTickFreq
+                0x20000006        0x1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000006                uwTickFreq
+ *fill*         0x20000007        0x1 
+ .data.uwTickPrio
+                0x20000008        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000008                uwTickPrio
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000438        0x4 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000438                __atexit_recursive_mutex
+                0x2000043c                . = ALIGN (0x4)
+                0x2000043c                _edata = .
+
+.igot.plt       0x2000043c        0x0 load address 0x080024ac
+ .igot.plt      0x2000043c        0x0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x2000043c                . = ALIGN (0x4)
+
+.bss            0x2000043c      0x170 load address 0x080024ac
+                0x2000043c                _sbss = .
+                0x2000043c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000043c       0x1c c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.fac_us    0x20000458        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .bss.spi_flash_err
+                0x2000045c        0x1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+                0x2000045c                spi_flash_err
+ *fill*         0x2000045d        0x3 
+ .bss.hspi1     0x20000460       0x58 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+                0x20000460                hspi1
+ .bss.FLASH_WriteAddress
+                0x200004b8        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x200004b8                FLASH_WriteAddress
+ .bss.RxBuff    0x200004bc       0x80 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x200004bc                RxBuff
+ .bss.Spi_Rx_Buffer
+                0x2000053c        0x1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x2000053c                Spi_Rx_Buffer
+ *fill*         0x2000053d        0x3 
+ .bss.aRxBuffer
+                0x20000540        0x1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x20000540                aRxBuffer
+ *fill*         0x20000541        0x3 
+ .bss.huart1    0x20000544       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                0x20000544                huart1
+ .bss.uwTick    0x20000584        0x4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000584                uwTick
+ *(COMMON)
+ COMMON         0x20000588       0x21 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x20000588                __lock___atexit_recursive_mutex
+                0x2000058c                __lock___arc4random_mutex
+                0x20000590                __lock___env_recursive_mutex
+                0x20000594                __lock___sinit_recursive_mutex
+                0x20000598                __lock___malloc_recursive_mutex
+                0x2000059c                __lock___at_quick_exit_mutex
+                0x200005a0                __lock___dd_hash_mutex
+                0x200005a4                __lock___tz_mutex
+                0x200005a8                __lock___sfp_recursive_mutex
+                0x200005ac                . = ALIGN (0x4)
+ *fill*         0x200005a9        0x3 
+                0x200005ac                _ebss = .
+                0x200005ac                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200005ac      0x604 load address 0x080024ac
+                0x200005b0                . = ALIGN (0x8)
+ *fill*         0x200005ac        0x4 
+                0x200005b0                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200007b0                . = (. + _Min_Heap_Size)
+ *fill*         0x200005b0      0x200 
+                0x20000bb0                . = (. + _Min_Stack_Size)
+ *fill*         0x200007b0      0x400 
+                0x20000bb0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .ARM.attributes
+                0x00000077       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .ARM.attributes
+                0x000000a4       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000d1       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .ARM.attributes
+                0x000000fe       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000012b       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x00000158       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .ARM.attributes
+                0x00000185       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x000001b2       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .ARM.attributes
+                0x000001df       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .ARM.attributes
+                0x0000020c       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x00000239       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000266       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x00000293       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x000002c0       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x000002ed       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .ARM.attributes
+                0x0000031a       0x2d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .ARM.attributes
+                0x00000347       0x21 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+ .ARM.attributes
+                0x00000368       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000395       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000003c2       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000003ef       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000041c       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000449       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000476       0x2d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000004a3       0x1d c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(printer_spiflash_download_GB2132.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x1049c
+ .debug_info    0x00000000     0x1a27 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_info    0x00001a27      0x336 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_info    0x00001d5d      0xc74 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x000029d1     0x102d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_info    0x000039fe     0x1b88 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00005586     0x1596 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00006b1c      0xc3f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_info    0x0000775b      0x478 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00007bd3     0x1051 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x00008c24      0xf45 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_info    0x00009b69      0x87a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x0000a3e3      0xea0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x0000b283      0x926 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x0000bba9      0x734 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000c2dd      0xa9f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000cd7c     0x1dd8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_info    0x0000eb54     0x1926 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_info    0x0001047a       0x22 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_abbrev   0x00000000     0x29cb
+ .debug_abbrev  0x00000000      0x2ec CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_abbrev  0x000002ec      0x191 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_abbrev  0x0000047d      0x26b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x000006e8      0x2ac CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_abbrev  0x00000994      0x2f9 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00000c8d      0x27b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x00000f08      0x28b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_abbrev  0x00001193      0x151 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x000012e4      0x2b7 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x0000159b      0x28f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_abbrev  0x0000182a      0x22c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00001a56      0x367 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00001dbd      0x262 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x0000201f      0x213 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00002232      0x28d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x000024bf      0x267 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_abbrev  0x00002726      0x293 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_abbrev  0x000029b9       0x12 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_loc      0x00000000     0x5afb
+ .debug_loc     0x00000000      0x1c4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_loc     0x000001c4      0x16e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_loc     0x00000332       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_loc     0x0000037a      0x1b6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_loc     0x00000530       0x16 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_loc     0x00000546       0xff CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_loc     0x00000645       0x25 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_loc     0x0000066a      0x565 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_loc     0x00000bcf      0x11b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x00000cea      0x71f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x00001409      0x7ce CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_loc     0x00001bd7      0x421 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00001ff8      0x610 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00002608     0x1c8c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_loc     0x00004294     0x1867 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_aranges  0x00000000      0x998
+ .debug_aranges
+                0x00000000       0x98 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_aranges
+                0x00000098       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_aranges
+                0x000000c8       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x000000e8       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_aranges
+                0x00000118       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x00000160       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x000001d0       0x40 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_aranges
+                0x00000210       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000238       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_aranges
+                0x00000268       0x90 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_aranges
+                0x000002f8       0xe0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x000003d8       0x90 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000468       0x80 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x000004e8       0x58 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x00000540       0x90 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x000005d0      0x1d0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_aranges
+                0x000007a0      0x1d0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_aranges
+                0x00000970       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_ranges   0x00000000      0x900
+ .debug_ranges  0x00000000       0x88 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_ranges  0x00000088       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_ranges  0x000000a8       0x10 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x000000b8       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_ranges  0x000000d8       0x38 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000110       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x00000170       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_ranges  0x000001a0       0x18 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x000001b8       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_ranges  0x000001d8       0x80 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_ranges  0x00000258       0xd0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000328       0xe0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000408       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x00000478       0x48 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x000004c0       0xa0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x00000560      0x1c0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_ranges  0x00000720      0x1c0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_ranges  0x000008e0       0x20 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_line     0x00000000     0xa7e2
+ .debug_line    0x00000000      0x79e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_line    0x0000079e      0x3fb CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_line    0x00000b99      0x431 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000fca      0x4b6 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_line    0x00001480      0x60a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00001a8a      0x54c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00001fd6      0x4cd CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_line    0x000024a3      0x3cd CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00002870      0x4b3 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x00002d23      0x829 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_line    0x0000354c      0x61e CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00003b6a      0x778 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x000042e2      0xe2f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00005111      0x736 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00005847      0xd3f CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x00006586     0x24c7 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_line    0x00008a4d     0x1ce1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_line    0x0000a72e       0xb4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_str      0x00000000     0x3299
+ .debug_str     0x00000000      0x83a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                                0x8cd (size before relaxing)
+ .debug_str     0x0000083a       0xb2 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+                                0x38c (size before relaxing)
+ .debug_str     0x000008ec       0xf7 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+                                0x7f1 (size before relaxing)
+ .debug_str     0x000009e3      0x44b CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+                                0xb4f (size before relaxing)
+ .debug_str     0x00000e2e      0x815 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                               0x1326 (size before relaxing)
+ .debug_str     0x00001643      0x18d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                                0xf66 (size before relaxing)
+ .debug_str     0x000017d0      0x1ad CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+                                0x882 (size before relaxing)
+ .debug_str     0x0000197d       0xdd CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                                0x3d9 (size before relaxing)
+ .debug_str     0x00001a5a       0xab CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+                                0xb8d (size before relaxing)
+ .debug_str     0x00001b05      0x19d CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+                                0x920 (size before relaxing)
+ .debug_str     0x00001ca2      0x2a1 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                0x9d6 (size before relaxing)
+ .debug_str     0x00001f43      0x355 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                0xaf8 (size before relaxing)
+ .debug_str     0x00002298      0x271 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                                0x762 (size before relaxing)
+ .debug_str     0x00002509      0x11a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                0x565 (size before relaxing)
+ .debug_str     0x00002623      0x21c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                0x747 (size before relaxing)
+ .debug_str     0x0000283f      0x510 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+                                0xc8f (size before relaxing)
+ .debug_str     0x00002d4f      0x4e4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                                0xcde (size before relaxing)
+ .debug_str     0x00003233       0x66 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/startup/startup_stm32f103xe.s.obj
+                                 0xb2 (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .comment       0x00000079       0x7a CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+
+.debug_frame    0x00000000     0x19a8
+ .debug_frame   0x00000000      0x1a4 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/JX_2R_01.c.obj
+ .debug_frame   0x000001a4       0x60 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/delay.c.obj
+ .debug_frame   0x00000204       0x28 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x0000022c       0x54 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/spi.c.obj
+ .debug_frame   0x00000280       0xbc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x0000033c       0xd8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x00000414       0x70 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/sys.c.obj
+ .debug_frame   0x00000484       0x30 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x000004b4       0x54 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/usart.c.obj
+ .debug_frame   0x00000508      0x1b0 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Core/Src/w25qxx.c.obj
+ .debug_frame   0x000006b8      0x1cc CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x00000884      0x12c CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000009b0      0x144 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x00000af4       0xe8 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000bdc      0x190 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00000d6c      0x590 CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_spi.c.obj
+ .debug_frame   0x000012fc      0x4ec CMakeFiles/printer_spiflash_download_GB2132.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .debug_frame   0x000017e8       0x2c c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00001814       0x5c c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001870       0x20 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00001890       0x34 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x000018c4       0xb0 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00001974       0x34 c:/progra~1/stmicroelectronics/gcc-arm-none-eabi-9-2019-q4-major-win32/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)

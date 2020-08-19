@@ -1,0 +1,3 @@
+F:/desktop/CLionProjects/printer_spiflash_download_GB2132/cmake-build-debug/CMakeFiles/printer_spiflash_download_GB2132.elf.dir
+F:/desktop/CLionProjects/printer_spiflash_download_GB2132/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/desktop/CLionProjects/printer_spiflash_download_GB2132/cmake-build-debug/CMakeFiles/rebuild_cache.dir
