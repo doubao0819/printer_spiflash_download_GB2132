@@ -24,7 +24,7 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
             W25QXX_Read(Spi_Rx_Buffer,FLASH_WriteAddress,RXBUFFERSIZE);
 
             if(Spi_Rx_Buffer[0] == aRxBuffer[0] )
-            {
+            {.
 
                 FLASH_WriteAddress++;
             }

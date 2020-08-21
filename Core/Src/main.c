@@ -59,11 +59,10 @@ int main(void)
 
     while (1)
     {
-        if( FLASH_WriteAddress >=588829)
+        if( FLASH_WriteAddress >=588818)
         {
             delay_ms(500);
             HAL_GPIO_TogglePin(LED_GPIO_Port,LED_Pin);
-            FLASH_WriteAddress=0;
         }
 
     }
